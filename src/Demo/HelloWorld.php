@@ -1,9 +1,8 @@
 <?php
 	namespace Demo;
 	class HelloWorld{
-		funtion__construct()
-		{
-			echo 'Hello World~'.PHP_EOL
+		function __construct(){
+		echo 'HelloWorld~'.PHP_EOL;
 		}
 	}
 ?>
