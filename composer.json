@@ -6,8 +6,8 @@
             "name": "YI-QING ZENG"
         }
     ],
-    "require": {}
-    "autoload":{'
+    "require": {},
+    "autoload":{
 	"psr-4":{
 	    "Demo\\":"./src/Demo"
 	}
