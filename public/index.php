@@ -11,7 +11,7 @@
 	//類別未先 import 進來
 	$mary = new Demo\Hello\Someone('Mary');
 	$john = new Demo\Hello\Someone('John');
-	$hello = new Demo HelloWorld();
+	$hello = new Demo\HelloWorld();
 	use Demo\HelloWorld as World;
 	
 	// 類別另取別名
