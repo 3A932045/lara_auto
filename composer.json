@@ -3,8 +3,13 @@
     "description": "aaa",
     "authors": [
         {
-            "name": "ABC"
+            "name": "YI-QING ZENG"
         }
     ],
     "require": {}
+    "autoload":{'
+	"psr-4":{
+	    "Demo\\":"./src/Demo"
+	}
+    }
 }
