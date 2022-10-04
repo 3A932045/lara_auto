@@ -3,7 +3,7 @@
 	class HelloWorld{
 		funtion__construct()
 		{
-			echo 'Hello World~'.PHP EOL
+			echo 'Hello World~'.PHP_EOL
 		}
 	}
 ?>
