@@ -8,7 +8,8 @@
     ],
     "require": {
         "monolog/monolog": "^3.2",
-        "designcoda/monlogs": "^2.12"
+        "designcoda/monlogs": "^2.12",
+	"nesbot/carbon": "^2.16"
     },
     "autoload":{
 	"psr-4":{
