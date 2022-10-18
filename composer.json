@@ -6,7 +6,10 @@
             "name": "YI-QING ZENG"
         }
     ],
-    "require": {},
+    "require": {
+        "monolog/monolog": "^3.2",
+        "designcoda/monlogs": "^2.12"
+    },
     "autoload":{
 	"psr-4":{
 	    "Demo\\":"./src/Demo"
